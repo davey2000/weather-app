@@ -19,4 +19,4 @@ export const geoAPIUrl = "https://wft-geo-db.p.rapidapi.com/v1/geo/cities?minPop
 export const geoAPITime = 'https://wft-geo-db.p.rapidapi.com/v1/geo/cities/Q60/dateTime';
 
 export const weatherAPIUrl = "https://api.openweathermap.org/data/2.5";
-export const weatherAPIKey = "976b379f909a6bcee1d2ed22032fd5ff";
+export const weatherAPIKey = "Your OpenWeather Map API Key";
